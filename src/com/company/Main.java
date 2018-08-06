@@ -37,10 +37,11 @@ package com.company;
     * System.out.println("") vs. System.out.print("");
         *println - adds a newline character that it takes you to another line
         *print - keeps the cursor at the line
- * */
+ */
+
 public class Main {
     public static void main(String[] args) {
-        /* This is how you print out Hello World - refer to JAVA NOTES for info on System.out.println()*/
+        // This is how you print out Hello World - refer to JAVA NOTES for info on System.out.println()
 
         /* prints out like this:
           Hello World
